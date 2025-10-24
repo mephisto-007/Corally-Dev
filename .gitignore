@@ -1,0 +1,6 @@
+data/api.log
+data/cache.csv
+data/rechner_log.csv
+master/__pycache__/
+*.env
+.vscode/
